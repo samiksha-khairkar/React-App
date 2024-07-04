@@ -1,0 +1,19 @@
+.bg {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(138, 219, 15);
+}
+
+.bg2 {
+    background-color: rgb(35, 227, 93);
+    margin-top: -30px;
+}
+
+.bg3 {
+    margin-left: 120px;
+    width: 100px;
+    background-color: rgb(35, 227, 93);
+    border: none;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
